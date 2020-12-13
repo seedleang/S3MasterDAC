@@ -1,5 +1,7 @@
-Implémentation associée à un article d'ICLR 2021 :
-Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning
-- non encore publié, auteurs anonymes
+# Projet de trois mois
+
+Implémentation associée à un article d'ICLR 2021 :  
+Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning  
+// non encore publié, auteurs anonymes
 
 Le code sera disponible fin janvier.
