@@ -1,5 +1,5 @@
 Réalisation de l'état de l'art et conception théorique d'un modèle novateur pour un sujet au choix : 
-**pour moi, la lecture automatique des électroencéphalogrammes.**
+**pour moi, la lecture automatique des électroencéphalogrammes.**  
 Contacter une neuropédiatre de l'APHP (Cr. Hala Nasser, hôpital Robert Debré) m'a menée à traiter le cas de l'épilepsie (détection des crises d'absence en vue d'une prédiction au quotidien),  
 et à développer un modèle de Deep Learning censément fiable qui favorise l'interprétabilité des décisions prises.
 
